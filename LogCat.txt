@@ -1,0 +1,118 @@
+10-16 11:29:50.978 21749-21749/? D/dalvikvm: Late-enabling CheckJNI
+10-16 11:29:51.018 21749-21749/com.fastcoding.testemapa D/ActivityThread: setTargetHeapUtilization:0.25
+10-16 11:29:51.018 21749-21749/com.fastcoding.testemapa D/ActivityThread: setTargetHeapConcurrentStart:2097152
+10-16 11:29:51.028 21749-21749/com.fastcoding.testemapa D/HyLog: I : /data/font/config/sfconfig.dat, No such file or directory (2)
+10-16 11:29:51.028 21749-21749/com.fastcoding.testemapa D/HyLog: I : /data/font/config/dfactpre.dat, No such file or directory (2)
+10-16 11:29:51.028 21749-21749/com.fastcoding.testemapa D/HyLog: I : /data/font/config/sfconfig.dat, No such file or directory (2)
+10-16 11:29:51.058 21749-21749/com.fastcoding.testemapa I/dalvikvm: Could not find method android.app.Notification$Builder.setLocalOnly, referenced from method com.google.android.gms.common.GooglePlayServicesUtil.zza
+10-16 11:29:51.058 21749-21749/com.fastcoding.testemapa W/dalvikvm: VFY: unable to resolve virtual method 257: Landroid/app/Notification$Builder;.setLocalOnly (Z)Landroid/app/Notification$Builder;
+10-16 11:29:51.058 21749-21749/com.fastcoding.testemapa D/dalvikvm: VFY: replacing opcode 0x6e at 0x00c8
+10-16 11:29:51.068 21749-21749/com.fastcoding.testemapa I/dalvikvm: Could not find method android.content.pm.PackageManager.getPackageInstaller, referenced from method com.google.android.gms.common.GooglePlayServicesUtil.zzj
+10-16 11:29:51.068 21749-21749/com.fastcoding.testemapa W/dalvikvm: VFY: unable to resolve virtual method 547: Landroid/content/pm/PackageManager;.getPackageInstaller ()Landroid/content/pm/PackageInstaller;
+10-16 11:29:51.068 21749-21749/com.fastcoding.testemapa D/dalvikvm: VFY: replacing opcode 0x6e at 0x000b
+10-16 11:29:51.118 21749-21793/com.fastcoding.testemapa I/GMPM: App measurement is starting up
+10-16 11:29:51.128 21749-21793/com.fastcoding.testemapa E/GMPM: getGoogleAppId failed with status: 10
+10-16 11:29:51.128 21749-21793/com.fastcoding.testemapa E/GMPM: Uploading is not possible. App measurement disabled
+10-16 11:29:51.148 21749-21749/com.fastcoding.testemapa I/zzy: Making Creator dynamically
+10-16 11:29:51.168 21749-21749/com.fastcoding.testemapa I/dalvikvm: Could not find method android.content.pm.PackageManager.getPackageInstaller, referenced from method com.google.android.gms.common.kz.a
+10-16 11:29:51.168 21749-21749/com.fastcoding.testemapa W/dalvikvm: VFY: unable to resolve virtual method 446: Landroid/content/pm/PackageManager;.getPackageInstaller ()Landroid/content/pm/PackageInstaller;
+10-16 11:29:51.168 21749-21749/com.fastcoding.testemapa D/dalvikvm: VFY: replacing opcode 0x6e at 0x000d
+10-16 11:29:51.178 21749-21749/com.fastcoding.testemapa I/dalvikvm: Could not find method android.app.Notification$Builder.setLocalOnly, referenced from method com.google.android.gms.common.kz.b
+10-16 11:29:51.178 21749-21749/com.fastcoding.testemapa W/dalvikvm: VFY: unable to resolve virtual method 155: Landroid/app/Notification$Builder;.setLocalOnly (Z)Landroid/app/Notification$Builder;
+10-16 11:29:51.178 21749-21749/com.fastcoding.testemapa D/dalvikvm: VFY: replacing opcode 0x6e at 0x0206
+10-16 11:29:51.188 21749-21749/com.fastcoding.testemapa D/ChimeraCfgMgr: Loading module com.google.android.gms.maps from APK /data/data/com.google.android.gms/app_chimera/chimera-module-root/module-fcfb08c37b9ca44c48d9936b0e1895ef8b9cffe0/MapsModule.apk
+10-16 11:29:51.188 21749-21749/com.fastcoding.testemapa D/ChimeraModuleLdr: Loading module APK /data/data/com.google.android.gms/app_chimera/chimera-module-root/module-fcfb08c37b9ca44c48d9936b0e1895ef8b9cffe0/MapsModule.apk
+10-16 11:29:51.198 21749-21749/com.fastcoding.testemapa D/ChimeraFileApk: Primary ABI of requesting process is armeabi-v7a
+10-16 11:29:51.198 21749-21749/com.fastcoding.testemapa D/ChimeraFileApk: Classloading successful. Optimized code found.
+10-16 11:29:51.228 21749-21749/com.fastcoding.testemapa I/Google Maps Android API: Google Play services client version: 8115000
+10-16 11:29:51.228 21749-21749/com.fastcoding.testemapa I/Google Maps Android API: Google Play services package version: 8115036
+10-16 11:29:51.248 21749-21749/com.fastcoding.testemapa I/dalvikvm: Could not find method android.content.pm.PackageManager.getPackageInstaller, referenced from method com.google.android.gms.common.ks.a
+10-16 11:29:51.248 21749-21749/com.fastcoding.testemapa W/dalvikvm: VFY: unable to resolve virtual method 130: Landroid/content/pm/PackageManager;.getPackageInstaller ()Landroid/content/pm/PackageInstaller;
+10-16 11:29:51.248 21749-21749/com.fastcoding.testemapa D/dalvikvm: VFY: replacing opcode 0x6e at 0x000e
+10-16 11:29:51.298 21749-21749/com.fastcoding.testemapa I/dalvikvm: Could not find method java.util.Locale.toLanguageTag, referenced from method com.google.maps.api.android.lib6.d.a.e.<init>
+10-16 11:29:51.298 21749-21749/com.fastcoding.testemapa W/dalvikvm: VFY: unable to resolve virtual method 14427: Ljava/util/Locale;.toLanguageTag ()Ljava/lang/String;
+10-16 11:29:51.298 21749-21749/com.fastcoding.testemapa D/dalvikvm: VFY: replacing opcode 0x6e at 0x00fc
+10-16 11:29:51.338 21749-21749/com.fastcoding.testemapa I/e: Token loaded from file. Expires in: 293561486 ms.
+10-16 11:29:51.338 21749-21749/com.fastcoding.testemapa I/e: Scheduling next attempt in 293261 seconds.
+10-16 11:29:51.548 21749-21808/com.fastcoding.testemapa W/ActivityThread: ClassLoader.loadClass: The class loader returned by Thread.getContextClassLoader() may fail for processes that host multiple applications. You should explicitly specify a context class loader. For example: Thread.setContextClassLoader(getClass().getClassLoader());
+10-16 11:29:51.618 21749-21749/com.fastcoding.testemapa I/Adreno-EGL: <qeglDrvAPI_eglInitialize:381>: EGL 1.4 QUALCOMM build: AU_LINUX_ANDROID_KK_2.7_RB1.04.04.01.007.024_msm8960_KK_2.7_RB1_CL3869936_release_AU (CL3869936)
+10-16 11:29:51.618 21749-21749/com.fastcoding.testemapa I/Adreno-EGL: OpenGL ES Shader Compiler Version: 17.01.11.SPL
+10-16 11:29:51.618 21749-21749/com.fastcoding.testemapa I/Adreno-EGL: Build Date: 01/20/14 Mon
+10-16 11:29:51.618 21749-21749/com.fastcoding.testemapa I/Adreno-EGL: Local Branch: 
+10-16 11:29:51.618 21749-21749/com.fastcoding.testemapa I/Adreno-EGL: Remote Branch: quic/kk_2.7_rb1.22
+10-16 11:29:51.618 21749-21749/com.fastcoding.testemapa I/Adreno-EGL: Local Patches: NONE
+10-16 11:29:51.618 21749-21749/com.fastcoding.testemapa I/Adreno-EGL: Reconstruct Branch: NOTHING
+10-16 11:29:51.628 21749-21808/com.fastcoding.testemapa E/DataScheduler: isDataSchedulerEnabled():false
+10-16 11:29:51.648 21749-21749/com.fastcoding.testemapa D/OpenGLRenderer: Enabling debug mode 0
+10-16 11:29:51.769 21749-21749/com.fastcoding.testemapa I/ActivityManager: Timeline: Activity_idle id: android.os.BinderProxy@420f7e40 time:7264745
+10-16 11:29:52.429 21749-21829/com.fastcoding.testemapa D/dalvikvm: GC_FOR_ALLOC freed 5647K, 35% free 11471K/17480K, paused 41ms, total 41ms
+10-16 11:29:53.220 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:29:53.250 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:29:55.442 21749-21808/com.fastcoding.testemapa D/Volley: [3262] a.a: HTTP response for request=<[ ] https://clients4.google.com/glm/mmap/api 0x99e6744e NORMAL 1> [lifetime=3898], [size=62], [rc=200], [retryCount=0]
+10-16 11:29:55.442 21749-21749/com.fastcoding.testemapa D/Volley: [1] p.b: 3901 ms: [ ] https://clients4.google.com/glm/mmap/api 0x99e6744e NORMAL 1
+10-16 11:29:56.854 21749-21809/com.fastcoding.testemapa D/Volley: [3263] a.a: HTTP response for request=<[ ] https://csi.gstatic.com/csi?s=maps_android_api&v=3&action=map_start_up&it=map_load.1586,init.197,on_resume.2,on_create.1&irt=1586,197,228,198 0x4d844933 NORMAL 2> [lifetime=3933], [size=0], [rc=204], [retryCount=0]
+10-16 11:29:56.864 21749-21749/com.fastcoding.testemapa D/Volley: [1] p.b: 3941 ms: [ ] https://csi.gstatic.com/csi?s=maps_android_api&v=3&action=map_start_up&it=map_load.1586,init.197,on_resume.2,on_create.1&irt=1586,197,228,198 0x4d844933 NORMAL 2
+10-16 11:30:10.036 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:10.126 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:11.648 21749-21825/com.fastcoding.testemapa D/dalvikvm: GC_FOR_ALLOC freed 6519K, 36% free 12397K/19216K, paused 40ms, total 40ms
+10-16 11:30:12.539 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:12.589 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:13.199 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:13.310 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:13.840 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:13.940 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:14.601 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:14.671 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:19.456 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:19.536 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:19.936 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:20.016 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:20.577 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:20.617 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event :261
+10-16 11:30:21.407 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event :6
+10-16 11:30:21.428 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:21.528 21749-21829/com.fastcoding.testemapa D/dalvikvm: GC_FOR_ALLOC freed 7803K, 40% free 12591K/20696K, paused 45ms, total 45ms
+10-16 11:30:22.078 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:22.178 21749-21809/com.fastcoding.testemapa D/Volley: [3263] a.a: HTTP response for request=<[ ] https://clients4.google.com/glm/mmap/api 0x99e6744e NORMAL 6> [lifetime=10303], [size=224], [rc=200], [retryCount=1]
+10-16 11:30:22.178 21749-21749/com.fastcoding.testemapa D/Volley: [1] p.b: 10303 ms: [ ] https://clients4.google.com/glm/mmap/api 0x99e6744e NORMAL 6
+10-16 11:30:22.238 21749-21808/com.fastcoding.testemapa D/Volley: [3262] a.a: HTTP response for request=<[ ] https://clients4.google.com/glm/mmap/api 0x99e6744e NORMAL 5> [lifetime=10561], [size=263], [rc=200], [retryCount=1]
+10-16 11:30:22.238 21749-21749/com.fastcoding.testemapa D/Volley: [1] p.b: 10567 ms: [ ] https://clients4.google.com/glm/mmap/api 0x99e6744e NORMAL 5
+10-16 11:30:22.539 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:22.819 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:22.829 21749-21756/com.fastcoding.testemapa I/dalvikvm: Jit: resizing JitTable from 4096 to 8192
+10-16 11:30:22.899 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:23.279 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:23.369 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:23.449 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:23.540 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:23.640 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:23.710 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:23.810 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:23.880 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:23.960 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:24.050 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:24.140 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:24.200 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:24.290 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:24.370 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:24.450 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:24.531 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:24.621 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:24.731 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:24.831 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:24.911 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:24.981 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:25.091 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:25.161 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:25.241 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:25.662 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:25.722 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:25.822 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:25.872 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:25.952 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:26.032 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:26.142 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:26.202 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:30:26.282 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch Down
+10-16 11:30:26.362 21749-21749/com.fastcoding.testemapa I/ViewRootImpl: ViewRoot's Touch Event : Touch UP
+10-16 11:32:42.966 21749-21829/com.fastcoding.testemapa D/dalvikvm: GC_FOR_ALLOC freed 8153K, 41% free 12631K/21084K, paused 60ms, total 60ms
